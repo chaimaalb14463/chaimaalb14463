@@ -8,7 +8,7 @@
 
 *Exploring technology, building practical solutions, and turning ideas into reality.*
 
-[![Email](https://img.shields.io/badge/Email-Contact_Me-E9DDFB?style=flat-square&logo=gmail&logoColor=30264A)](mailto:alilarbichaima2006@gmail.com)
+[![Email](https://img.shields.io/badge/Email-Contact_Me-E9DDFB?style=flat-square&logo=gmail&logoColor=30264A)](https://mail.google.com/mail/?view=cm&to=alilarbichaima2006@gmail.com)
 <!--
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-E9DDFB?style=flat-square&logo=linkedin&logoColor=30264A)](YOUR_LINKEDIN_URL)
 [![Email](https://img.shields.io/badge/Email-Contact_Me-E9DDFB?style=flat-square&logo=gmail&logoColor=30264A)](mailto:YOUR_EMAIL)
